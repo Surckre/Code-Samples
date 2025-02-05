@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS // needed if u compile in vs2022
 #include <stdio.h>
 
 int main() {
